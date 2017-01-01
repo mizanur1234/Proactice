@@ -1,0 +1,10 @@
+open the the folder where you want to use you git repo
+
+=>git init
+=>on bash comment (git clone https://github.com/mizanur1234/Proactice.git )
+=>creat a readme.md (or Any --file)
+=>git add README.md
+=>git commit -m "first commit" 
+=>git remote add origin https://github.com/mizanur1234/Proactice.git
+=>git push -u origin master
+

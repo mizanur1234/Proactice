@@ -1,0 +1,18 @@
+	How to work with git 	
+
+				GIT PULL AND GIT PUSH
+
+    1) git branch <branch mame>    note :create a branch.
+    2) git checkout <branch name>
+    3) touch (filename.txt)    note: add a file or modify existing file,
+    4) git status 	 
+    6) git add -A or git add . or git add <1st filename> <2nd filename>	note: which ever way you wntadd      file
+    7) git commit -m "add message"
+		[optional = git pull .. if you want you can do that or leave it as it is just push]
+
+    8) git push origin -u <branch name>
+    9) git checkout master  note: git into master 
+   10) git pull origin master   note: pull all the changes has been pushed to remote
+   11) git merge <branch name>  note:merge from the branch where you made changes.
+   12) git push origin master
+	
